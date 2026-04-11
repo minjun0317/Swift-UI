@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		48BEBDF82F867877008B12B8 /* Book-on.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Book-on.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		48094F272F8A4654007236AC /* Book-on(login).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Book-on(login).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		48BEBDFA2F867877008B12B8 /* Book-on */ = {
+		48094F292F8A4654007236AC /* Book-on(login) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Book-on";
+			path = "Book-on(login)";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		48BEBDF52F867877008B12B8 /* Frameworks */ = {
+		48094F242F8A4654007236AC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		48BEBDEF2F867877008B12B8 = {
+		48094F1E2F8A4654007236AC = {
 			isa = PBXGroup;
 			children = (
-				48BEBDFA2F867877008B12B8 /* Book-on */,
-				48BEBDF92F867877008B12B8 /* Products */,
+				48094F292F8A4654007236AC /* Book-on(login) */,
+				48094F282F8A4654007236AC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		48BEBDF92F867877008B12B8 /* Products */ = {
+		48094F282F8A4654007236AC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				48BEBDF82F867877008B12B8 /* Book-on.app */,
+				48094F272F8A4654007236AC /* Book-on(login).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		48BEBDF72F867877008B12B8 /* Book-on */ = {
+		48094F262F8A4654007236AC /* Book-on(login) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 48BEBE032F867878008B12B8 /* Build configuration list for PBXNativeTarget "Book-on" */;
+			buildConfigurationList = 48094F322F8A4655007236AC /* Build configuration list for PBXNativeTarget "Book-on(login)" */;
 			buildPhases = (
-				48BEBDF42F867877008B12B8 /* Sources */,
-				48BEBDF52F867877008B12B8 /* Frameworks */,
-				48BEBDF62F867877008B12B8 /* Resources */,
+				48094F232F8A4654007236AC /* Sources */,
+				48094F242F8A4654007236AC /* Frameworks */,
+				48094F252F8A4654007236AC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				48BEBDFA2F867877008B12B8 /* Book-on */,
+				48094F292F8A4654007236AC /* Book-on(login) */,
 			);
-			name = "Book-on";
+			name = "Book-on(login)";
 			packageProductDependencies = (
 			);
-			productName = "Book-on";
-			productReference = 48BEBDF82F867877008B12B8 /* Book-on.app */;
+			productName = "Book-on(login)";
+			productReference = 48094F272F8A4654007236AC /* Book-on(login).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		48BEBDF02F867877008B12B8 /* Project object */ = {
+		48094F1F2F8A4654007236AC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2640;
 				LastUpgradeCheck = 2640;
 				TargetAttributes = {
-					48BEBDF72F867877008B12B8 = {
+					48094F262F8A4654007236AC = {
 						CreatedOnToolsVersion = 26.4;
 					};
 				};
 			};
-			buildConfigurationList = 48BEBDF32F867877008B12B8 /* Build configuration list for PBXProject "Book-on" */;
+			buildConfigurationList = 48094F222F8A4654007236AC /* Build configuration list for PBXProject "Book-on(login)" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 48BEBDEF2F867877008B12B8;
+			mainGroup = 48094F1E2F8A4654007236AC;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 48BEBDF92F867877008B12B8 /* Products */;
+			productRefGroup = 48094F282F8A4654007236AC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				48BEBDF72F867877008B12B8 /* Book-on */,
+				48094F262F8A4654007236AC /* Book-on(login) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		48BEBDF62F867877008B12B8 /* Resources */ = {
+		48094F252F8A4654007236AC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		48BEBDF42F867877008B12B8 /* Sources */ = {
+		48094F232F8A4654007236AC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		48BEBE012F867878008B12B8 /* Debug */ = {
+		48094F302F8A4655007236AC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		48BEBE022F867878008B12B8 /* Release */ = {
+		48094F312F8A4655007236AC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,14 +244,13 @@
 			};
 			name = Release;
 		};
-		48BEBE042F867878008B12B8 /* Debug */ = {
+		48094F332F8A4655007236AC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 89BCKZ4P8H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -264,7 +263,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "TILios.Book-on";
+				PRODUCT_BUNDLE_IDENTIFIER = "TILios.Book-on-login-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -276,14 +275,13 @@
 			};
 			name = Debug;
 		};
-		48BEBE052F867878008B12B8 /* Release */ = {
+		48094F342F8A4655007236AC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 89BCKZ4P8H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -296,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "TILios.Book-on";
+				PRODUCT_BUNDLE_IDENTIFIER = "TILios.Book-on-login-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -311,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		48BEBDF32F867877008B12B8 /* Build configuration list for PBXProject "Book-on" */ = {
+		48094F222F8A4654007236AC /* Build configuration list for PBXProject "Book-on(login)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				48BEBE012F867878008B12B8 /* Debug */,
-				48BEBE022F867878008B12B8 /* Release */,
+				48094F302F8A4655007236AC /* Debug */,
+				48094F312F8A4655007236AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		48BEBE032F867878008B12B8 /* Build configuration list for PBXNativeTarget "Book-on" */ = {
+		48094F322F8A4655007236AC /* Build configuration list for PBXNativeTarget "Book-on(login)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				48BEBE042F867878008B12B8 /* Debug */,
-				48BEBE052F867878008B12B8 /* Release */,
+				48094F332F8A4655007236AC /* Debug */,
+				48094F342F8A4655007236AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 48BEBDF02F867877008B12B8 /* Project object */;
+	rootObject = 48094F1F2F8A4654007236AC /* Project object */;
 }
