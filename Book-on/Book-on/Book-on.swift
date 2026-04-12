@@ -33,14 +33,18 @@ struct ContentView: View {
                     .padding(.bottom, 64)
                     .multilineTextAlignment(.center)
                     .font(.system(size:17, weight: .bold))
-                Text("시작하기")
-                    .foregroundColor(.white)
-                    .frame (width: 162, height: 32)
-                    .overlay(
-                        RoundedRectangle(cornerRadius: 25)
-                            .stroke (Color.white, lineWidth: 2)
-                        
+                Button(action:{
+                    print("가나디로 시작하기")
+                })
+                {
+                    Text("시작하기")
+                        .foregroundColor(.white)
+                        .frame (width: 162, height: 32)
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 25)
+                                .stroke (Color.white, lineWidth: 2)
                         )
+                }
             }
         }
     }
