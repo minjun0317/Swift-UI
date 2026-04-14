@@ -51,8 +51,10 @@ struct LoginView: View {
                         Text("로그인")
                             .frame(width: 220, height: 35)
                             .background(.white)
+                            .foregroundStyle(.black)
                             .font(.system(size: 15, weight: .bold))
                             .cornerRadius(10)
+                            
                         
                             .padding(.bottom, 9)
                     }
